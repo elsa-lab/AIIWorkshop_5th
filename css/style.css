@@ -2004,3 +2004,8 @@ h1, h2, h3, h4, h5,
 #galery-owl.owl-theme .owl-next {
   right: 15px;
 }
+
+.abstract-btn {
+  font-family: "Muli, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji";
+  font-size: 16px;
+}
